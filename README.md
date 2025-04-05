@@ -3,16 +3,16 @@
 ## I'm Anum! 👩‍🔬✨
 
 🎓 **Ph.D. student in Computational Biology**  
-💻 **Expert in Python | Bioinformatics Pipelines | Exome Sequence Analysis | Database Design and Development**  
+💻 **Expert in Python | Bioinformatics Pipelines | NGS Data Analysis and Visualisations | Genome/Exome Sequence Analysis | Database Design and Development | Machine Learning**  
 📊 **Passionate about Cancer Genomics, Drug Design, & Precision Medicine**
 
 ---
 
 ### 🚀 About Me  
-- 🧬 Developing **bioinformatics pipelines** for complex exome sequence data analysis.  
-- 🗂️ Designing and building **Resistant Cancer Cell Line Collection databases for cancer drug sensitivity analysis**.  
-- 🔬 Skilled in **variant calling**, **variant filtering**, **protein modeling**, and **single-cell analysis**, **insilico drug design**.  
-- 🌱 Currently enhancing expertise in **Python**, **HTML**, **Php**, **JavaScript**, **CSS**, and **data visualization tools**.  
+- 🧬 Developing **bioinformatics pipelines** for complex NGS/genome/exome sequence data analysis.  
+- 🗂️ Designing and building **Resistant Cancer Cell Line Collection database for cancer drug sensitivity analysis**.  
+- 🔬 Skilled in **variant calling**, **variant filtering**, **protein and molecular modelling**, and **single-cell analysis**, **insilico drug design**, **databases**.  
+- 🌱 Currently enhancing expertise in **Python**, **HTML**, **Php**, **JavaScript**, **CSS**, **Bash**, **Shell**, **Lynux**, and **Data visualization tools**.  
 
 ---
 
