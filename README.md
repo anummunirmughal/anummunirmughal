@@ -31,7 +31,7 @@
 #### **Frameworks & Libraries**  
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)  ![D3.js](https://img.shields.io/badge/d3.js-%23F9A03C.svg?style=for-the-badge&logo=d3.js&logoColor=white)  
 
-#### **Data Analysis & Visualization**  
+#### **Data Analysis & Visualisation**  
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)  ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-34A853?style=for-the-badge&logo=data:image/png;base64,<BASE64_ENCODED_IMAGE>)  ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF6F00?style=for-the-badge&logo=data:image/png;base64,<BASE64_ENCODED_IMAGE>)  
 
 #### **Database Management**  
