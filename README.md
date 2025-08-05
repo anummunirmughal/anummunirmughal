@@ -49,21 +49,17 @@
 ---
 
 # 📊 GitHub Stats
-
 <!-- GitHub Profile Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anummunirmughal&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true)
-
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anummunirmughal&theme=default&hide_border=true)
-
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anummunirmughal&layout=compact&theme=default&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anummunirmughal&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anummunirmughal&theme=onedark&no-bg=true&no-frame=true&margin-w=4)
 
 ---
 
