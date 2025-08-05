@@ -48,10 +48,16 @@
 - **Statistical Analysis**
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anummunirmughal&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anummunirmughal&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anummunirmughal&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+<!-- GitHub Profile Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anummunirmughal&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anummunirmughal&theme=default&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anummunirmughal&layout=compact&theme=default&hide_border=true)
 
 ---
 
