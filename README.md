@@ -10,7 +10,7 @@
 
 ### 🚀 About Me  
 - 🧬 Developing **bioinformatics pipelines** for complex NGS/genome/exome sequence data analysis.  
-- 🗂️ Designing and building **Resistant Cancer Cell Line Collection database for cancer drug sensitivity analysis**.  
+- 🗂️ Designing and building **Resistant Cancer Cell Line (RCCL) Collection database for understanding acquired drug resistance**.  
 - 🔬 Skilled in **variant calling**, **variant filtering**, **protein and molecular modelling**, and **single-cell analysis**, **insilico drug design**, **databases**.  
 - 🌱 Currently enhancing expertise in **Python**, **HTML**, **Php**, **JavaScript**, **CSS**, **Bash**, **Shell**, **Lynux**, and **Data visualization tools**.  
 
