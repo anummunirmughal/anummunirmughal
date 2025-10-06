@@ -2,7 +2,7 @@
 
 ## I'm Anum! 👩‍🔬✨
 
-🎓 **Ph.D. student in Computational Biology**  
+🎓 **Ph.D. candidate in Computational Biology**  
 💻 **Expert in Python | Bioinformatics Pipelines | NGS Data Analysis and Visualisations | Genome/Exome Sequence Analysis | Database Design and Development | Machine Learning |**  
 📊 **Passionate about Cancer Genomics, Drug Design, & Precision Medicine**
 
